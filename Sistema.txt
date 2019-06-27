@@ -1,0 +1,36 @@
+Sistema
+
+Atributos
+
+-vector<ItemVenda *> carros
+-vector<ItemVenda *> motores
+-vector<ItemVenda *> cambios
+-vector<ItemVenda *> cores
+-vector<ItemVenda *> direcoes
+-vector<ItemVenda *> sonorizacoes
+-vector<ItemVenda *> rodas
+-vector<ItemVenda *> orcamento
+-cliente: * ConcessionariaModerna
+
+Métodos
+
+- boasVindas() : void
+- carregarEstoque(): void
+- iniciarVenda(): void
+- imprimirOrcto(): void
+- listarConfiguracao(): void
+
+- escolheAutomovel(): *ItemVenda 
+- escolheMotor(): *ItemVenda 
+- escolheCambio(): *ItemVenda 
+- escolheCor(): *ItemVenda 
+- escolheDirecao(): *ItemVenda 
+- escolheSonorizacao(): *ItemVenda 
+- escolheRodas(): *ItemVenda 
+
+<<Construtor>>
++ Sistema(ConcessionariaModerna *);
+<<Destrutor>>
++ ~Sistema();
+
++ void processa();

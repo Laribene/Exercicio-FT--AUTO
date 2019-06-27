@@ -1,0 +1,19 @@
+Concessionária
+
+Atributo
+
+ - Nome: string
+ - Endereço: string
+ - Cidade: string
+ - Estado: string
+ - Fone: string
+
+Métodos
+
+ + string getNome();
+ + string getEndereco();
+ + string getCidade();
+ + string getEstado();
+ + string getFone();
+
+  

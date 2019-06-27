@@ -1,0 +1,11 @@
+Cor
+
+Atributo
+
+- nome: string
+- metalica: bool
+
+Métodos
+
++ Cor(string, bool, double)
++ getDescricao: string

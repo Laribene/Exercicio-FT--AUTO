@@ -1,0 +1,9 @@
+ItemVenda
+
+Atributos
+#double valor
+
+Métodos
++ ItemVenda(double)
++ double getValor()
++ string getDescricao()

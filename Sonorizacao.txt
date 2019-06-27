@@ -1,0 +1,11 @@
+Sonorizacao
+
+Atributos
+
+- tipo: string
+
+Métodos
+
++ Sonorizacao(string, double)
++ getDEscricao(): string
+

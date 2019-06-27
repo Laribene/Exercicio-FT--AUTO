@@ -1,0 +1,9 @@
+Menu
+
+atributo
+- string titulo;
+- vector<string> opcoes;
+
+Método
++ Menu(string titulo, vector<string> opcoes);
++ Menu(string titulo, vector<string> opcoes);

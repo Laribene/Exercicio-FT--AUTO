@@ -1,0 +1,12 @@
+Motor
+
+Atributo
+
+- volume: float
+- valvulas: int
+- combustiveis: string
+
+Metodos:
+
++ Motor(float,int, string, double)
++ getDescricao() : string

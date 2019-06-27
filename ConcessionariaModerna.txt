@@ -1,0 +1,17 @@
+ConcessionariaModerna
+
+Atributo
+
+- facebook: string
+- whatsapp: string
+- tweeter: string
+- site: string
+
+Metodos
+
++ ConcessionariaModerna(string nome, string endereco, string cidade, string estado, string fone, string facebook, string whatsapp, string tweeter, string site);
++ getFacebook(): string
++ getWhatsapp(): string
++ getTweeter(): string
++ getSite(): string
+

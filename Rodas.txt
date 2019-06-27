@@ -1,0 +1,14 @@
+Rodas
+
+Atributos
+
+ - acabamento: string
+ - aro: int
+
+ Metodos
+
+ + Rodas(string, int, double)
+ + getDescricao: string
+
+
+   

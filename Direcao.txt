@@ -1,0 +1,11 @@
+Direcao
+
+Atributo
+
+# tipo: string
+
+Método
+
++ Direcao(string, double)
++ getDescricao(): string
+

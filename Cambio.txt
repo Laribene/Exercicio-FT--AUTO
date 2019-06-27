@@ -1,0 +1,10 @@
+Cambio
+
+Atributos
+- tipo: string
+- marchas: int
+
+Métodos
++ cambio(string, int, double);
++ getDescricao(): string
+
